@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def Intro():
-    print('Witaj w naszym prostym kalkulatorze!')
+    print('Witajcie w naszym prostym kalkulatorze!')
     print()
     
 def WhatOperation():
